@@ -1,0 +1,24 @@
+miner install >>
+http://www.cryptobadger.com/2017/04/build-ethereum-mining-rig-linux/
+
+
+go-ether >>
+https://github.com/ethereum/go-ethereum/wiki/Running-in-Docker
+https://github.com/ethereum/go-ethereum
+
+img >>
+https://hub.docker.com/r/ethereum/client-go/
+
+geth commands >>
+https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options
+
+
+cluster >>
+https://github.com/Capgemini-AIE/ethereum-docker
+https://capgemini.github.io/blockchain/ethereum-docker-compose/
+https://github.com/ethereum/go-ethereum/wiki/Setting-up-private-network-or-local-cluster
+
+
+web-ui >>
+https://github.com/cubedro/eth-netstats
+
